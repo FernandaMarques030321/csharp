@@ -1,0 +1,14 @@
+C:\projetos\Funcionarios\Course\Funcionario\bin\Debug\net8.0\Course.exe
+C:\projetos\Funcionarios\Course\Funcionario\bin\Debug\net8.0\Course.deps.json
+C:\projetos\Funcionarios\Course\Funcionario\bin\Debug\net8.0\Course.runtimeconfig.json
+C:\projetos\Funcionarios\Course\Funcionario\bin\Debug\net8.0\Course.dll
+C:\projetos\Funcionarios\Course\Funcionario\bin\Debug\net8.0\Course.pdb
+C:\projetos\Funcionarios\Course\Funcionario\obj\Debug\net8.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\Funcionarios\Course\Funcionario\obj\Debug\net8.0\Course.AssemblyInfoInputs.cache
+C:\projetos\Funcionarios\Course\Funcionario\obj\Debug\net8.0\Course.AssemblyInfo.cs
+C:\projetos\Funcionarios\Course\Funcionario\obj\Debug\net8.0\Course.csproj.CoreCompileInputs.cache
+C:\projetos\Funcionarios\Course\Funcionario\obj\Debug\net8.0\Course.dll
+C:\projetos\Funcionarios\Course\Funcionario\obj\Debug\net8.0\refint\Course.dll
+C:\projetos\Funcionarios\Course\Funcionario\obj\Debug\net8.0\Course.pdb
+C:\projetos\Funcionarios\Course\Funcionario\obj\Debug\net8.0\Course.genruntimeconfig.cache
+C:\projetos\Funcionarios\Course\Funcionario\obj\Debug\net8.0\ref\Course.dll
