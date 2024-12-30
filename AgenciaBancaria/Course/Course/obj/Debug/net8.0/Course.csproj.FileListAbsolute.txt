@@ -1,0 +1,14 @@
+C:\projetos\AgenciaBancaria\Course\Course\bin\Debug\net8.0\Course.exe
+C:\projetos\AgenciaBancaria\Course\Course\bin\Debug\net8.0\Course.deps.json
+C:\projetos\AgenciaBancaria\Course\Course\bin\Debug\net8.0\Course.runtimeconfig.json
+C:\projetos\AgenciaBancaria\Course\Course\bin\Debug\net8.0\Course.dll
+C:\projetos\AgenciaBancaria\Course\Course\bin\Debug\net8.0\Course.pdb
+C:\projetos\AgenciaBancaria\Course\Course\obj\Debug\net8.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\AgenciaBancaria\Course\Course\obj\Debug\net8.0\Course.AssemblyInfoInputs.cache
+C:\projetos\AgenciaBancaria\Course\Course\obj\Debug\net8.0\Course.AssemblyInfo.cs
+C:\projetos\AgenciaBancaria\Course\Course\obj\Debug\net8.0\Course.csproj.CoreCompileInputs.cache
+C:\projetos\AgenciaBancaria\Course\Course\obj\Debug\net8.0\Course.dll
+C:\projetos\AgenciaBancaria\Course\Course\obj\Debug\net8.0\refint\Course.dll
+C:\projetos\AgenciaBancaria\Course\Course\obj\Debug\net8.0\Course.pdb
+C:\projetos\AgenciaBancaria\Course\Course\obj\Debug\net8.0\Course.genruntimeconfig.cache
+C:\projetos\AgenciaBancaria\Course\Course\obj\Debug\net8.0\ref\Course.dll
